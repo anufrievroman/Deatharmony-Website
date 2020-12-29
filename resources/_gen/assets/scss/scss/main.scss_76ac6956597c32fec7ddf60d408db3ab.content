@@ -9058,3 +9058,6 @@ blockquote {
 
 body {
   margin-top: 0; }
+
+.network-icon a {
+  color: #000000; }

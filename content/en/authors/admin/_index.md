@@ -32,12 +32,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: youtube
-  icon_pack: fab
-  link: https://youtube.com/user/deatharmonyband
 - icon: soundcloud
   icon_pack: fab
   link: https://soundcloud.com/deatharmony
+- icon: youtube
+  icon_pack: fab
+  link: https://youtube.com/user/deatharmonyband
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/deatharmonyband
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Deatharmony is a symphonic metal project focused on orchestral and piano music. My music is inspired by symphonic metal bands like Haggard and Lacrimosa as well as by classical composers of baroque and romanticism.
+Fantasy piano & metal project created by Roman Anufriev, composer and song writer. Music of Deatharmony features orchestral, dream-folk, symphonic metal arrangements and is inspired by orchestral metal bands like Haggard and Lacrimosa as well as by classical composers of baroque and romanticism. Here, you'll find orchestral covers of metal songs, fantasy piano music, and various orchestral experiments. Musical scores and mp3 are available below for free.

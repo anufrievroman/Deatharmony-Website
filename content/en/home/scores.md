@@ -70,9 +70,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div class="mini-title"><h1>Free music scores</h1></div>
+<div class="mini-title"><h1>Musical scores</h1></div>
 
-Music must be free, so here you can always download free sheet music in pdf and other formats. If you are looking for scores of other compositions or wish to make a cover, I can send you midi files or other materials, don't hesitate to contact!
+Music must be free, so here you can always download free sheet music in pdf and other formats. If you are looking for scores of other compositions or wish to make a cover, I can send you midi files or other materials, so don't hesitate to contact.
 
 - Nurka's Song ∙ <a href="/scores/Nurka song.mid" title="download midi" target="_blank">MIDI</a>
 - Winter Entropy  ∙ <a href="/scores/Winter Entropy.pdf" title="скачать pdf" target="_blank">PDF</a>
