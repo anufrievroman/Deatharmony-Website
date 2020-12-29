@@ -1,0 +1,23 @@
+{{- define "main" -}}
+
+<div class="article-container">
+    {{ partial "page_header.html" . }}
+</div>
+<div class="universal-wrapper">
+  <div class="article-container">
+      {{ with .Content }}
+      {{ . }}
+      {{ end }}
+
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+      <div class="view-list-item">
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      </div>
+      {{ end }}
+
+      {{ partial "pagination" . }}
+  </div>
+</div>
+
+{{- end -}}

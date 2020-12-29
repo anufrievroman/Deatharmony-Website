@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Dark"
+
+# Optional Google font URL
+google_fonts = "Nunito|Poiret+One"
+
+# Font families
+heading_font = "Nunito"
+body_font = "Nunito"
+nav_font = "Nunito"
+mono_font = "Roboto Mono"
