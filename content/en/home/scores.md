@@ -70,7 +70,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div class="mini-title"><h1>Musical scores</h1></div>
+<div class="mini-title"><h1>Musical scores ♫</h1></div>
 
 Music must be free, so here you can always download free sheet music in pdf and other formats. If you are looking for scores of other compositions or wish to make a cover, I can send you midi files or other materials, so don't hesitate to contact.
 
