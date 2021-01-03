@@ -74,8 +74,9 @@ subtitle = ""
 
 Music must be free, so here you can always download free sheet music in pdf and other formats. If you are looking for scores of other compositions or wish to make a cover, I can send you midi files or other materials, so don't hesitate to contact.
 
+- Substantial Sympathy ∙ <a href="/scores/Substantial Sympathy.pdf" title="download pdf" target="_blank">PDF</a> ∙ <a href="/scores/Substantial Sympathy.mscz" title="download musescore" target="_blank">MSCZ</a>
 - Nurka's Song ∙ <a href="/scores/Nurka song.mid" title="download midi" target="_blank">MIDI</a>
-- Winter Entropy  ∙ <a href="/scores/Winter Entropy.pdf" title="скачать pdf" target="_blank">PDF</a>
+- Winter Entropy  ∙ <a href="/scores/Winter Entropy.pdf" title="download pdf" target="_blank">PDF</a>
 - Happy Indifference  ∙ <a href="/scores/Happy Indifference.pdf" title="download pdf" target="_blank">PDF</a> ∙ <a href="/scores/Happy Indifference.sib" title="download Sibelius file" target="_blank">SIB</a>
 - Empty Empathy  ∙ <a href="/scores/Empty Empathy.pdf" title="download pdf" target="_blank">PDF</a> ∙ <a href="/scores/Empty Empathy.sib" title="download Sibelius file" target="_blank">SIB</a>
 - Endless Promenade  ∙ <a href="/scores/Endless Promenade.pdf" title="download pdf" target="_blank">PDF</a> ∙ <a href="/scores/Endless Promenade.sib" title="download Sibelius file" target="_blank">SIB</a> ∙ <a href="/scores/Endless Promenade.gp5" title="download Guitar pro file" target="_blank">GP5</a>
